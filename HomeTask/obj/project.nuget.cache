@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WiqT0wczkASMLQSf5JRU69f79oiWw+XoFsybk7PzUWcJLc4Mk5kWqToiV/kWecao2vecQ4mmAZ6gpPt6+/DLhg==",
+  "dgSpecHash": "baMmo/n0QAdYIBxAd75/VyLEBPfhKMfCqLe57/GQEqP9Zbali7qcvZ6noOBeI6GkpMsPFMJAlamCaWCkemAS/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\test\\Desktop\\HomeTask\\HomeTask\\HomeTask.csproj",
+  "projectFilePath": "C:\\Users\\test\\Desktop\\.Net\\HomeTask-8june\\HomeTask\\HomeTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\test\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\test\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

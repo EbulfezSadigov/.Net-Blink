@@ -1,4 +1,5 @@
 ﻿using HomeTask.DAL;
+using HomeTask.Models;
 using HomeTask.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -25,6 +26,13 @@ namespace HomeTask.Controllers
                 blogs=db.Posts.ToList()
             };
             return View(hvm);
+        }
+
+        public IActionResult SendComment(Comment comment)
+        {
+            db.Comments.Add(comment);
+            db.SaveChanges();
+            return RedirectToAction("Index");
         }
     }
 }

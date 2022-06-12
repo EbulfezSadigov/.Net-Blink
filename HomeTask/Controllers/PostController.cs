@@ -1,4 +1,5 @@
 ﻿using HomeTask.DAL;
+using HomeTask.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -19,5 +20,7 @@ namespace HomeTask.Controllers
         {
             return View(db.Posts.Find(id));
         }
+
+        
     }
 }

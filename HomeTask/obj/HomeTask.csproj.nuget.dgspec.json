@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\test\\Desktop\\HomeTask\\HomeTask\\HomeTask.csproj": {}
+    "C:\\Users\\test\\Desktop\\.Net\\HomeTask-8june\\HomeTask\\HomeTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\test\\Desktop\\HomeTask\\HomeTask\\HomeTask.csproj": {
+    "C:\\Users\\test\\Desktop\\.Net\\HomeTask-8june\\HomeTask\\HomeTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test\\Desktop\\HomeTask\\HomeTask\\HomeTask.csproj",
+        "projectUniqueName": "C:\\Users\\test\\Desktop\\.Net\\HomeTask-8june\\HomeTask\\HomeTask.csproj",
         "projectName": "HomeTask",
-        "projectPath": "C:\\Users\\test\\Desktop\\HomeTask\\HomeTask\\HomeTask.csproj",
+        "projectPath": "C:\\Users\\test\\Desktop\\.Net\\HomeTask-8june\\HomeTask\\HomeTask.csproj",
         "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test\\Desktop\\HomeTask\\HomeTask\\obj\\",
+        "outputPath": "C:\\Users\\test\\Desktop\\.Net\\HomeTask-8june\\HomeTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
